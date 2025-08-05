@@ -1,6 +1,6 @@
 
 
-<!--<h1 align="center">Nathalia Lima</h1>
+<h1 align="center">Nathalia Lima</h1>
 
 <p align="center">
 · Estudante de Analise e Desenvolvimento de Sistemas
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
