@@ -1,6 +1,15 @@
-## Hi there 👋
 
-<!--
+
+<!--<h1 align="center">Nathalia Lima</h1>
+
+<p align="center">
+· Estudante de Analise e Desenvolvimento de Sistemas
+</p>
+
+---
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
 **nathaliyax/nathaliyax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
